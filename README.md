@@ -28,3 +28,5 @@
 - 适配 curs0r pool 推送本地客户端的功能
 
 ![20250330_194939](https://github.com/user-attachments/assets/83e67f2f-9b7a-4f7f-9761-c3ec4c7d5734)
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
