@@ -1,3 +1,7 @@
+# 06.10 01:00
+
+- 添加augment-cleaner，清理augment环境
+
 # 05.12 15:00
 
 - 修复使用web未过期token不会自动自动换client token的问题
