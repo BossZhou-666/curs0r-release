@@ -38,6 +38,10 @@
 - 修复掉试用的问题（次数降为 50）
 - 适配 curs0r pool 推送本地客户端的功能
 
-![20250330_194939](https://github.com/user-attachments/assets/83e67f2f-9b7a-4f7f-9761-c3ec4c7d5734)
+![image](https://github.com/user-attachments/assets/ce96a46d-8ce6-4a8c-b602-37317af94610)
+￼
+![image](https://github.com/user-attachments/assets/937aaeda-1fd2-427c-a882-bded8f8773ab)
+![image](https://github.com/user-attachments/assets/558ece72-acfb-432d-b15a-06236b13b27a)
 
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
+
